@@ -1,0 +1,979 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blog",
+				"blog_post_create_view"
+			],
+			[
+				"Blog",
+				"BlogPostForm"
+			],
+			[
+				"Cona",
+				"ContactForm"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"hoe",
+				"homepage_view"
+			],
+			[
+				"found",
+				"found_urls"
+			],
+			[
+				"foun",
+				"found_urls"
+			],
+			[
+				"orde",
+				"order_item_id"
+			],
+			[
+				"order",
+				"orderitemid"
+			],
+			[
+				"ret",
+				"retexp"
+			],
+			[
+				"ncor",
+				"ncor_score"
+			],
+			[
+				"reco",
+				"recommended_action"
+			],
+			[
+				"labe",
+				"labelTable"
+			],
+			[
+				"orderI",
+				"orderItemId"
+			],
+			[
+				"ordr",
+				"orderitemid"
+			],
+			[
+				"from",
+				"from_unixtime"
+			],
+			[
+				"use",
+				"user_lockin_state"
+			],
+			[
+				"ter",
+				"terminationDate"
+			],
+			[
+				"wind",
+				"window_size"
+			],
+			[
+				"rvp",
+				"rvpFact"
+			],
+			[
+				"terma",
+				"terminationDate"
+			],
+			[
+				"bigfoot",
+				"bigfoot_external_neo"
+			],
+			[
+				"returned",
+				"return_completed_date_time"
+			],
+			[
+				"term",
+				"terminationTime"
+			],
+			[
+				"termi",
+				"termination_tag"
+			],
+			[
+				"return",
+				"return_type"
+			],
+			[
+				"emerald",
+				"emerald_data"
+			],
+			[
+				"rpe",
+				"repeatedorderssameproductonaccountid"
+			],
+			[
+				"historical",
+				"historicaltotalreturns"
+			],
+			[
+				"historicalordersamever",
+				"historicalorderssameverticaltotalreturnratio"
+			],
+			[
+				"isF",
+				"is_fk_assured"
+			],
+			[
+				"ordder",
+				"orderItemUnitDiscountPercenatge"
+			],
+			[
+				"big",
+				"bigfoot_journal"
+			],
+			[
+				"DA",
+				"DAY"
+			],
+			[
+				"bigfoo",
+				"bigfoot_external_neo"
+			],
+			[
+				"terminat",
+				"termination_date"
+			],
+			[
+				"order_",
+				"order_date_key"
+			],
+			[
+				"dis",
+				"DISTINCT"
+			],
+			[
+				"Gro",
+				"GROUP"
+			],
+			[
+				"acc",
+				"account_id"
+			],
+			[
+				"temp",
+				"temp_manage_db"
+			],
+			[
+				"di",
+				"discount_value"
+			],
+			[
+				"tot",
+				"totalOrderItems"
+			],
+			[
+				"pivot",
+				"pivot_tag2"
+			],
+			[
+				"poi",
+				"pivot_tag2"
+			],
+			[
+				"piv",
+				"pivot_tag2"
+			],
+			[
+				"modelf",
+				"model_weights_file"
+			],
+			[
+				"tran",
+				"transform_params_dataFile"
+			],
+			[
+				"analytic_s",
+				"analytic_super_category"
+			],
+			[
+				"CO",
+				"CODBLOCK_THRESHOLDS"
+			],
+			[
+				"FRO",
+				"FROM"
+			],
+			[
+				"FROM",
+				"From"
+			],
+			[
+				"rtos",
+				"rtos24Rate"
+			],
+			[
+				"an",
+				"analytic_vertical"
+			],
+			[
+				"im",
+				"impact_fk_orders"
+			],
+			[
+				"pinco",
+				"pincode"
+			],
+			[
+				"fk",
+				"impact_fk_rto"
+			],
+			[
+				"impa",
+				"impact_fk_rto"
+			],
+			[
+				"toa",
+				"totalOrderItems"
+			],
+			[
+				"du",
+				"dump_file"
+			],
+			[
+				"dup",
+				"dump_flag"
+			],
+			[
+				"d_",
+				"d_test"
+			],
+			[
+				"dump",
+				"dump_file"
+			],
+			[
+				"base",
+				"base64_encoded_data2"
+			],
+			[
+				"no",
+				"noreply"
+			],
+			[
+				"enco",
+				"encode"
+			],
+			[
+				"encode",
+				"encodestring"
+			],
+			[
+				"att",
+				"attach_file"
+			],
+			[
+				"sten",
+				"stencilIdForAUDetect"
+			],
+			[
+				"send",
+				"sendEmail"
+			],
+			[
+				"R",
+				"roundedRtoRate"
+			],
+			[
+				"pinc",
+				"pincode"
+			],
+			[
+				"roun",
+				"roundedRtoRate"
+			],
+			[
+				"B",
+				"BY"
+			],
+			[
+				"rou",
+				"roundedRtoRate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/try_django/views.py",
+			"settings":
+			{
+				"buffer_size": 861,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/forms.py",
+			"settings":
+			{
+				"buffer_size": 746,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/models.py",
+			"settings":
+			{
+				"buffer_size": 217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from django.http import Http404\nfrom django.shortcuts import render, get_object_or_404\n\n\n# Create your views here.\nfrom .models import BlogPost\nfrom .forms import BlogPostForm, BlogPostModelForm\n\n# calling by id in url\n# def blog_post_detail(request, post_id):\n# \t#obj = BlogPost.objects.get(id=post_id)\n# \tobj = get_object_or_404(BlogPost, id=post_id)\n# \ttemplate = 'blog_post_detail.html'\n# \tcontext = {'object': obj}\n# \treturn render(request, template, context)\n\n\n# calling by slug in the url\n# def blog_post_detail(request, post_slug):\n# \t#obj = BlogPost.objects.get(id=post_id)\n# \tobj = get_object_or_404(BlogPost, slug=post_slug)\n# \ttemplate = 'blog_post_detail.html'\n# \tcontext = {'object': obj}\n# \treturn render(request, template, context)\n\n\ndef blog_post_list_view(request):\n\t# list of objects\n\t# could be search\n\tqs = BlogPost.objects.all()\n\ttemplate = 'blog/list.html'\n\tcontext = {'object_list': qs}\n\treturn render(request, template, context)\n\ndef blog_post_detail_view(request, post_slug):\n\t# about 1 object\n\tobj = get_object_or_404(BlogPost, slug=post_slug)\n\ttemplate = 'blog/detail.html'\n\tcontext = {'object': obj}\n\treturn render(request, template, context)\n\ndef blog_post_create_view(request):\n\t# create objects, use form\n\t#form = BlogPostForm(request.POST or None)\n\tform = BlogPostModelForm(request.POST or None)\n\tif form.is_valid():\n\t\tprint(form.cleaned_data)\n\t\t#obj = BlogPost.objects.create(**form.cleaned_data)\n\t\tform.save() # create an object and saves it to db\n\t\t# manupulate data\n\t\t# obj = form.save(commit=False) # not actually saving data\n\t\t# obj.title = form.cleaned_data['title'] + 'my_title'\n\t\t# obj.save()\n\n\t\tform = BlogPostModelForm()\n\ttemplate = 'blog/form.html'\n\tcontext = {\n\t\t'form': form,\n\t\t'title': \"Create Your Blog Post\"}\n\treturn render(request, template, context)\n\ndef blog_post_update_view(request, post_slug):\n\tobj = get_object_or_404(BlogPost, slug=post_slug)\n\ttemplate = 'blog/update.html'\n\tcontext = {'object': obj, 'form': None}\n\treturn render(request, template, context)\n\ndef blog_post_delete_view(request, post_slug):\n\tobj = get_object_or_404(BlogPost, slug=post_slug)\n\ttemplate = 'blog/delete.html'\n\tcontext = {'object': obj, 'form': None}\n\treturn render(request, template, context)",
+			"file": "src/blog/views.py",
+			"file_size": 2229,
+			"file_write_time": 132044430293434047,
+			"settings":
+			{
+				"buffer_size": 2229,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abhishek.kumars/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 21436,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abhishek.kumars/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/try_django/urls.py",
+			"settings":
+			{
+				"buffer_size": 1058,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/try_django/settings.py",
+			"settings":
+			{
+				"buffer_size": 3145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/form.html",
+			"settings":
+			{
+				"buffer_size": 355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/templates/blog/form.html",
+			"settings":
+			{
+				"buffer_size": 355,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/try_django/forms.py",
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: anac",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/abhishek.kumars/workspace/django-work/try_django",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog/templates",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog/templates/blog",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/try_django"
+	],
+	"file_history":
+	[
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog/models.py",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog/views.py",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/hello_world.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/base.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/about.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/contact.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog/admin.py",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/blog/urls.py",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/try_django/urls.py",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/blog_post_update.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/blog_post_list.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/blog_post_detail.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/blog_post_delete.html",
+		"/Users/abhishek.kumars/workspace/django-work/try_django/src/templates/blog_post_create.html",
+		"/Users/abhishek.kumars/workspace/hive-queries/scraper.py",
+		"/Users/abhishek.kumars/workspace/research/keyword-extractor/dataset_creator/dataset_builder.py",
+		"/Users/abhishek.kumars/workspace/hive-queries/forward.sql",
+		"/Users/abhishek.kumars/workspace/hive-queries/bu_wise_cutoff.sql",
+		"/Users/abhishek.kumars/workspace/rto_dir/pin-fsn-bu/Curr_RTOModel/nn_model.py",
+		"/Users/abhishek.kumars/workspace/hive-queries/rto_work.sql"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"urllib2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/try_django/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/blog/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/blog/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/abhishek.kumars/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/abhishek.kumars/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/try_django/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								750,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/try_django/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1078,
+								1078
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/templates/form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/blog/templates/blog/form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/try_django/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "try_django.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

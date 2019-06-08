@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+{% include 'blog/list_inline.html' with blog_post=object%}
+
+<!--<h1> {{object.title}} </h1>
+<p> {{object.content}} </p>-->
+
+{% if user.is_authenticated and user.is_staff %}
+	<a href={{object.get_edit_url}}> Edit </a>
+	<a href={{object.get_delete_url}}> Delete </a>
+
+{% endif %}
+{% endblock %}

@@ -1,0 +1,12 @@
+<br>
+<div class="card border-secondary mb-3" style="max-width: 100rem;">
+  <div class="card-header"><a href={{blog_post.get_absolute_url}}>{{blog_post.title}}</a></div>
+  <div class="card-body text-secondary">
+  	{% if truncate %}
+    	<h5 class="card-title">{{blog_post.content | linebreaks | truncatewords:30}}</h5>
+    {% else %}
+    	<h5 class="card-title">{{blog_post.content | linebreaks }}</h5>
+    {% endif %}
+    <p class="card-text">- {{blog_post.user}}</p>
+  </div>
+</div>
